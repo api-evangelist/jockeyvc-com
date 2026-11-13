@@ -1,4 +1,4 @@
-# jockeyvc-com
+# Jockey Delivery
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-jockeyvc-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://jockeyvc.com/
+Jockey Delivery provides same‑day local retail delivery in San Antonio, offering customers a wide selection of over 670,000 products from real stores. Shoppers can pick items up at the shelf and have a local courier deliver them for a flat $9.99 fee. The service emphasizes fast, convenient fulfillment and integrates with local merchants to bring in‑store inventory to customers’ doors quickly.
+
+**Areas:** Delivery · E‑commerce · Local Services · Same‑Day Delivery · San Antonio
+
+## Jockey Delivery on APIs.io
+
+Everything profiled for Jockey Delivery is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jockeyvc-com/](https://apis.io/providers/jockeyvc-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [Jockey Delivery Address API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-address-api/) — The Address API from Jockey Delivery — 2 operation(s) for address.
+- [Jockey Delivery Checkout API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-checkout-api/) — The Checkout API from Jockey Delivery — 2 operation(s) for checkout.
+- [Jockey Delivery Delivery API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-delivery-api/) — The Delivery API from Jockey Delivery — 2 operation(s) for delivery.
+- [Jockey Delivery MCP API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-mcp-api/) — The Mcp API from Jockey Delivery — 1 operation(s) for mcp.
+- [Jockey Delivery Orders API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-orders-api/) — The Orders API from Jockey Delivery — 1 operation(s) for orders.
+- [Jockey Delivery Products API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-products-api/) — The Products API from Jockey Delivery — 1 operation(s) for products.
+- [Jockey Delivery Search API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-search-api/) — The Search API from Jockey Delivery — 1 operation(s) for search.
+- [Jockey Delivery .well Known API](https://apis.io/apis/jockeyvc-com/jockeyvc-com-well-known-api/) — The .well Known API from Jockey Delivery — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Jockey Delivery Agentic Access](https://apis.io/agentic-access/jockeyvc-com/jockeyvc-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Jockey Delivery API Rules](https://apis.io/rules/jockeyvc-com/jockeyvc-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Jockey Delivery Domain Security](https://apis.io/security/jockeyvc-com/jockeyvc-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://delivery.jockeyvc.com/)
+- [Terms of service](https://jockeyvc.com/terms)
+- [Privacy policy](https://jockeyvc.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 31.0** — thin · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 43.8 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 34.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | self |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/jockeyvc-com/](https://apis.io/providers/jockeyvc-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Jockey Delivery: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jockeyvc-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
